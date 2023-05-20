@@ -2,6 +2,7 @@
 # CPlace 2.0 - 7/24
 
 A Multiplayer Online Canvas
+CPlace Never Reset Again!
 
 
 ## Demo
