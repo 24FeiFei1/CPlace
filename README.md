@@ -9,7 +9,7 @@ A Multiplayer Online Canvas
 CPlace Demo Link https://cplace-tmumk.run-eu-central1.goorm.site/ace
 ## Final Canvas
 
-![CPlace Canvas](https://cplace-tmumk.run-eu-central1.goorm.site/place.png)
+![CPlace Canvas](https://cplace-tmumk.run-eu-central1.goorm.site/place.png?timestamp=123456)
 
 
 
