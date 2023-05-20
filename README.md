@@ -8,8 +8,6 @@ A Multiplayer Online Canvas
 [Go To Place](https://cplace-tmumk.run-eu-central1.goorm.site/place)
 
 
-
-CPlace Demo Link https://cplace-tmumk.run-eu-central1.goorm.site/place
 ## Final Canvas
 
 ![CPlace Canvas](https://cplace-tmumk.run-eu-central1.goorm.site/place.png?)
