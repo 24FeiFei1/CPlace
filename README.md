@@ -3,13 +3,16 @@
 
 A Multiplayer Online Canvas
 
+
 ## Demo
+[Go To Place]([https://github.com/user/repository/fork](https://cplace-tmumk.run-eu-central1.goorm.site/place))
 
 
-CPlace Demo Link https://cplace-tmumk.run-eu-central1.goorm.site/ace
+
+CPlace Demo Link https://cplace-tmumk.run-eu-central1.goorm.site/place
 ## Final Canvas
 
-![CPlace Canvas](https://cplace-tmumk.run-eu-central1.goorm.site/place.png?timestamp=123456)
+![CPlace Canvas](https://cplace-tmumk.run-eu-central1.goorm.site/place.png?)
 
 
 
