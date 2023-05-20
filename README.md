@@ -1,5 +1,5 @@
 
-# CPlace
+# CPlace 2.0
 
 A Multiplayer Online Canvas
 
