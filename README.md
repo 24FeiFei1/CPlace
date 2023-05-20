@@ -5,7 +5,7 @@ A Multiplayer Online Canvas
 
 
 ## Demo
-[Go To Place](https://cplace-tmumk.run-eu-central1.goorm.site/place)
+[Go To Place](https://cplace-tmumk.run-eu-central1.goorm.site/cplace)
 
 
 ## Final Canvas
